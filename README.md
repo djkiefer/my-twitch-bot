@@ -57,8 +57,8 @@ npm install
 ### 3. Configure environment
 
 ```ini
-TWITCH_BOT_NAME=BotOnTheBeach
-TWITCH_CHANNEL=daddykiefer
+TWITCH_BOT_NAME=your_bot_name
+TWITCH_CHANNEL=your_twtich_channel
 TWITCH_OAUTH_TOKEN=oauth:your_token_here
 OPENAI_API_KEY=sk-yourkeyhere
 ```
