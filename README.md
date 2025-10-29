@@ -42,8 +42,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/botonthebeach.git
-cd botonthebeach
+git clone https://github.com/<your-username>/<your-bot>ach.git
+cd your-bot
 ```
 ---
 
