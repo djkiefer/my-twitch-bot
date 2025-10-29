@@ -42,7 +42,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-bot>ach.git
+git clone https://github.com/<your-username>/<your-bot>.git
 cd your-bot
 ```
 ---
